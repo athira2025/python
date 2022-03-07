@@ -1,0 +1,13 @@
+A=int(input("enter the amount :"))
+print("the amount is A =",A)
+P=int(input("Enter the amount principal_amount : "))
+print("The pricipal_amount is P=",P)
+r=int(input("Enter the rate of the interst :"))
+print("the rate is r=",r)
+n=int(input("Enter the number_of_years :"))
+print("the number_of_years n=",n)
+compound_interest=A-P
+print("The compound_interest is",A-P)
+x=input("compound interest annually")
+
+
